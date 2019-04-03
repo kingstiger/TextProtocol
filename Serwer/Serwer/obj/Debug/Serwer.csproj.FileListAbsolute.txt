@@ -1,0 +1,7 @@
+E:\TECH SIEC PROJEKTY\TEKSTOWY\Serwer\Serwer\bin\Debug\Serwer.exe.config
+E:\TECH SIEC PROJEKTY\TEKSTOWY\Serwer\Serwer\bin\Debug\Serwer.exe
+E:\TECH SIEC PROJEKTY\TEKSTOWY\Serwer\Serwer\bin\Debug\Serwer.pdb
+E:\TECH SIEC PROJEKTY\TEKSTOWY\Serwer\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+E:\TECH SIEC PROJEKTY\TEKSTOWY\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+E:\TECH SIEC PROJEKTY\TEKSTOWY\Serwer\Serwer\obj\Debug\Serwer.exe
+E:\TECH SIEC PROJEKTY\TEKSTOWY\Serwer\Serwer\obj\Debug\Serwer.pdb
